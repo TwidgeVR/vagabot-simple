@@ -1,0 +1,33 @@
+{
+  "name": "vagabot-simple",
+  "version": "1.0.0",
+  "description": "A Township Tale NodeJS Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edencomputing/vagabot-simple.git"
+  },
+  "keywords": [
+    "township",
+    "discord",
+    "bot"
+  ],
+  "author": "Twidge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edencomputing/vagabot-simple/issues"
+  },
+  "homepage": "https://github.com/edencomputing/vagabot-simple#readme",
+  "dependencies": {
+    "alta-jsapi": "git+https://github.com/alta-vr/alta-jsapi.git",
+    "att-bot-core": "git+https://github.com/alta-vr/ATT-Bot-JS.git",
+    "crypto-js": "^3.1.9-1",
+    "discord.js": "^11.5.1",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {}
+}
