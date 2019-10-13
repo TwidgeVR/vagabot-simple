@@ -9,8 +9,6 @@ Using libraries provided by Alta VR:
 
 - ATT Websocket bot: https://github.com/alta-vr/ATT-Bot-JS
 
-- ATT websocket connection library: https://github.com/alta-vr/att-websockets
-
 - Alta VR jsapi: https://github.com/alta-vr/alta-jsapi
 
 
